@@ -15,9 +15,9 @@ since: 2021
 # 源码仓库，请替换成自己的
 repository: klelee/klelee.github.io
 # 对 css 和 js 资源的 cdn 加速配置
-cdn:
-    jsdelivr:
-        enabled: false
+# cdn:
+#     jsdelivr:
+#         enabled: false
 # 可选组件配置
 components:
     # 分享
